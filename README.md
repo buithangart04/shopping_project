@@ -22,4 +22,4 @@
 - View invoice
 
 # Author
-- (@thangbuiduc)[https://github.com/buithangart04]
+- [@thangbuiduc](https://github.com/buithangart04)
