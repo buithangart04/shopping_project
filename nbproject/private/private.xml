@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/desktop/Java%20Web/Shopping_Project/src/java/controller/SearchProduct.java</file>
+            <file>file:/D:/desktop/Java%20Web/Shopping_Project/web/home.jsp</file>
+            <file>file:/D:/desktop/Java%20Web/Shopping_Project/src/java/controller/AddProduct.java</file>
+            <file>file:/D:/desktop/Java%20Web/Shopping_Project/src/java/controller/DeleteProduct.java</file>
+            <file>file:/D:/desktop/Java%20Web/Shopping_Project/src/java/controller/Register.java</file>
+            <file>file:/D:/desktop/Java%20Web/Shopping_Project/src/java/dal/DAO.java</file>
+            <file>file:/D:/desktop/Java%20Web/Shopping_Project/src/java/controller/Cart.java</file>
+            <file>file:/D:/desktop/Java%20Web/Shopping_Project/src/java/controller/ChangeProduct.java</file>
+            <file>file:/D:/desktop/Java%20Web/Shopping_Project/web/ProductDetail.jsp</file>
+            <file>file:/D:/desktop/Java%20Web/Shopping_Project/src/java/controller/ChangeAccount.java</file>
+            <file>file:/D:/desktop/Java%20Web/Shopping_Project/web/ChangeAccount.jsp</file>
+            <file>file:/D:/desktop/Java%20Web/Shopping_Project/src/java/controller/ListServlet.java</file>
+            <file>file:/D:/desktop/Java%20Web/Shopping_Project/src/java/controller/Payment.java</file>
+            <file>file:/D:/desktop/Java%20Web/Shopping_Project/src/java/controller/ViewBill.java</file>
+            <file>file:/D:/desktop/Java%20Web/Shopping_Project/src/java/controller/RemoveProductInBill.java</file>
+            <file>file:/D:/desktop/Java%20Web/Shopping_Project/src/java/controller/Logout.java</file>
+            <file>file:/D:/desktop/Java%20Web/Shopping_Project/web/ProductDetail.css</file>
+            <file>file:/D:/desktop/Java%20Web/Shopping_Project/src/java/controller/Login.java</file>
+        </group>
+    </open-files>
+</project-private>
